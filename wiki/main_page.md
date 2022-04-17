@@ -6,5 +6,5 @@ redirect_from: "/"
 
 Hier kannst du inhalte lesen die richtig und wichtig sind...
 
-# Du bist neu Hier? 
+**Du bist neu Hier?**
 Dann schaue zuerst bitte bei der Gebrauchsanweisung [hier](/Wiki/HowTo) vorbei 
