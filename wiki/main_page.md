@@ -6,4 +6,5 @@ redirect_from: "/"
 
 Hier kannst du inhalte lesen die richtig und wichtig sind...
 
-Zum bearbeiten öffne bitte einen Pull-Request
+# Du bist neu Hier? 
+Dann schaue zuerst bitte bei der Gebrauchsanweisung [hier](/HowTo)vorbei 
