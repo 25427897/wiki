@@ -1,6 +1,6 @@
 ---
-name: General
-about: Everything related with Git-Wiki that doesn't fit in other categories
+name: Generelle Anfragen
+about: Alle Fragen zum Projekt die nicht in andere Kategorien passen
 title: "[GENERAL]"
 labels: general
 assignees: ''
